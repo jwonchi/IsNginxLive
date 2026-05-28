@@ -1,7 +1,7 @@
 #!/bin/bash
 
-URL="http://13.125.248.48"
-FILE="/home/ubuntu/chkNginx/IsNGINXLive/t1.md"
+URL="http://52.79.223.236"
+FILE="/home/ubuntu/chkNginx/IsNGINXLive/t6.md"
 TIMESTAMP=$(date '+%Y-%m-%d %H:%M:%S')
 
 # curl 실행: 본문을 받으면서 HTTP 코드도 함께 확인
