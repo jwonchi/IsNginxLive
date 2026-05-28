@@ -5,3 +5,15 @@
 /bin/sh: 1: /home/ubuntu/chkNginx/chk_t1.ch: not found
 /bin/sh: 1: /home/ubuntu/chkNginx/chk_t4.ch: not found
 /bin/sh: 1: /home/ubuntu/chkNginx/chk_t5.ch: not found
+[main 2e8cd2d] update 2026-05-28 07:29:01
+ 1 file changed, 7 insertions(+)
+ create mode 100644 cron_debug.log
+To https://github.com/jwonchi/IsNginxLive.git
+   bab05f4..2e8cd2d  main -> main
+/bin/sh: 1: /home/ubuntu/chkNginx/chk_t1.ch: not found
+/bin/sh: 1: /home/ubuntu/chkNginx/chk_t5.ch: not found
+/bin/sh: 1: /home/ubuntu/chkNginx/chk_t2.ch: not found
+/bin/sh: 1: /home/ubuntu/chkNginx/chk_t4.ch: not found
+/bin/sh: 1: /home/ubuntu/chkNginx/chk_t6.ch: not found
+/bin/sh: 1: /home/ubuntu/chkNginx/chk_t7.ch: not found
+/bin/sh: 1: /home/ubuntu/chkNginx/chk_t3.ch: not found
