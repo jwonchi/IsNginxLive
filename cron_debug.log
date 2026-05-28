@@ -17,3 +17,7 @@ To https://github.com/jwonchi/IsNginxLive.git
 /bin/sh: 1: /home/ubuntu/chkNginx/chk_t6.ch: not found
 /bin/sh: 1: /home/ubuntu/chkNginx/chk_t7.ch: not found
 /bin/sh: 1: /home/ubuntu/chkNginx/chk_t3.ch: not found
+[main 64d66fc] update 2026-05-28 07:30:02
+ 2 files changed, 147 insertions(+)
+To https://github.com/jwonchi/IsNginxLive.git
+   2e8cd2d..64d66fc  main -> main
