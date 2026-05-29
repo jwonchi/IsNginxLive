@@ -10580,3 +10580,21 @@ fatal: detected dubious ownership in repository at '/home/ubuntu/chkNginx'
 To add an exception for this directory, call:
 
 	git config --global --add safe.directory /home/ubuntu/chkNginx
+fatal: detected dubious ownership in repository at '/home/ubuntu/chkNginx'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ubuntu/chkNginx
+error: unknown option `cached'
+usage: git diff --no-index [<options>] <path> <path> [<pathspec>...]
+
+Diff output format options
+    -p, --patch           generate patch
+    -s, --no-patch        suppress diff output
+    -u                    generate patch
+    -U, --unified[=<n>]   generate diffs with <n> lines context
+    -W, --[no-]function-context
+                          generate diffs with <n> lines context
+    --raw                 generate the diff in raw format
+    --patch-with-raw      synonym for '-p --raw'
+    --patch-with-stat     synonym for '-p --stat'
+    --numstat             machine friendly --stat
