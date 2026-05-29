@@ -40892,3 +40892,7 @@ fatal: detected dubious ownership in repository at '/home/ubuntu/chkNginx'
 To add an exception for this directory, call:
 
 	git config --global --add safe.directory /home/ubuntu/chkNginx
+fatal: detected dubious ownership in repository at '/home/ubuntu/chkNginx'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ubuntu/chkNginx
