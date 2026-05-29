@@ -1,6 +1,6 @@
 #!/bin/bash
 
-URL="http://52.79.223.236"
+URL="http://54.116.184.128"
 FILE="/home/ubuntu/chkNginx/IsNGINXLive/t6.md"
 TIMESTAMP=$(TZ='Asia/Seoul' date '+%Y-%m-%d %H:%M:%S')
 
