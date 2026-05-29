@@ -1631,3 +1631,8 @@ To https://github.com/jwonchi/IsNginxLive.git
  1 file changed, 4 insertions(+)
 To https://github.com/jwonchi/IsNginxLive.git
    3696ab19..abd77001  main -> main
+[main e368fb9d] update 2026-05-29 08:15:01
+ 3 files changed, 187 insertions(+)
+ create mode 100755 chk_t8.sh
+To https://github.com/jwonchi/IsNginxLive.git
+   abd77001..e368fb9d  main -> main
