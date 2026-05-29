@@ -2,7 +2,7 @@
 
 URL="http://3.39.73.73"
 FILE="/home/ubuntu/chkNginx/IsNGINXLive/t1.md"
-TIMESTAMP=$(date '+%Y-%m-%d %H:%M:%S')
+TIMESTAMP=$(TZ='Asia/Seoul' date '+%Y-%m-%d %H:%M:%S')
 
 # curl 실행: 본문을 받으면서 HTTP 코드도 함께 확인
 BODY=$(curl -s -w "\n%{http_code}" --max-time 10 "$URL")
