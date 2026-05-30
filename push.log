@@ -41158,4 +41158,27 @@ Other diff options
                           specify how differences in submodules are shown
     --ita-invisible-in-index
                           hide 'git add -N' entries from the index
-    
+    --ita-visible-in-index
+                          treat 'git add -N' entries as real in the index
+    -S <string>           look for differences that change the number of occurrences of the specified string
+    -G <regex>            look for differences that change the number of occurrences of the specified regex
+    --pickaxe-all         show all changes in the changeset with -S or -G
+    --pickaxe-regex       treat <string> in -S as extended POSIX regular expression
+    -O <file>             control the order in which files appear in the output
+    --rotate-to <path>    show the change in the specified path first
+    --skip-to <path>      skip the output to the specified path
+    --find-object <object-id>
+                          look for differences that change the number of occurrences of the specified object
+    --diff-filter [(A|C|D|M|R|T|U|X|B)...[*]]
+                          select files by diff type
+    --max-depth <depth>   maximum tree depth to recurse
+    --output <file>       output to a specific file
+
+fatal: detected dubious ownership in repository at '/home/ubuntu/chkNginx'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ubuntu/chkNginx
+fatal: detected dubious ownership in repository at '/home/ubuntu/chkNginx'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/ubuntu/chkNginx
